@@ -2,7 +2,7 @@
     "name": "echojiandong/dev",
     "description": "dev",
     "type": "project",
-    "license": "mlt",
+    "license": "MIT",
     "authors": [
         {
             "name": "fjd Smith",
