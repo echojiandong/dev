@@ -1,5 +1,6 @@
 {
     "name": "fjds/fjddev",
+    "description": "dev",
     "type": "project",
     "license": "mlt",
     "authors": [
@@ -10,8 +11,7 @@
     ],
     "minimum-stability": "dev",
     "require": {},
-    
-        "autoload": {
+    "autoload": {
         "psr-4": { "integral\\": "src" }
     }
 }
