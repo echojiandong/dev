@@ -1,0 +1,17 @@
+{
+    "name": "fjd/dev",
+    "type": "project",
+    "license": "mlt",
+    "authors": [
+        {
+            "name": "fjd Smith",
+            "email": "85543010@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}，
+    
+        "autoload": {
+        "psr-4": { "integral\\": "src" }
+    }
+}
